@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-yhwmrd.nuansa138.site/sitemap.xml
